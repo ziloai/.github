@@ -10,7 +10,7 @@ We build smart rings. Two product lines:
 | Repository | |
 | --- | --- |
 | [OpenZilo](https://github.com/ziloai/OpenZilo) | Python SDK & CLI — `uv tool install openzilo` |
-| [OpenZilo-HMM](https://github.com/ziloai/OpenZilo-HMM) | Train your own ring gestures in minutes |
+| [OpenZilo-Gesture](https://github.com/ziloai/OpenZilo-Gesture) | Train your own ring gestures in minutes — `uvx openzilo-gesture-studio` |
 | [OpenZilo-Input](https://github.com/ziloai/OpenZilo-Input) | Android ring dictation with on-device speech recognition |
 | [OpenZilo-Connect](https://github.com/ziloai/OpenZilo-Connect) | Android app: connect, update, manage |
 | [libopenzilo](https://github.com/ziloai/libopenzilo) | Rust protocol core with Python & Android bindings |
