@@ -18,4 +18,6 @@ We build smart rings. Two product lines:
 
 [Get the kit](https://openzilo.com/buy) · [Docs](https://ziloai.github.io/OpenZilo/stable/) · [中文文档](https://ziloai.github.io/OpenZilo/stable/zh-CN/)
 
+**Community:** [Discord](https://discord.gg/pTJZ3RMHA5) · [GitHub Discussions](https://github.com/ziloai/OpenZilo/discussions) · [微信开发者群](assets/wechat-group.png)
+
 Built something with OpenZilo? Add the `openzilo` topic to your repo and we'll feature it.
